@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+ body
+ {
+    color:gainsboro;
+    border-radius: 50px;;
+    justify-content: center;
+ }
