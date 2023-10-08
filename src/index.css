@@ -7,3 +7,8 @@
     border-radius: 50px;;
     justify-content: center;
  }
+ .container{
+   margin : auto ;
+   width : 75% ;
+   
+ }
