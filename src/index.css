@@ -1,17 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
- body
- {
-    color:gainsboro;
-    border-radius: 50px;;
-    justify-content: center;
- }
- .container{
-   margin : auto ;
-   width : 75% ;
-   
- }
- .btn{
-  font-size:18px;
-  }
